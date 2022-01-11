@@ -48,4 +48,6 @@
   * 암호(admin) 입력 후 각 영화관별로 판매금액, 전체 티켓 판매량 출력
   * "C:\\temp\\tBoxReceipt.txt"에 영수증 백업 
 
+## License
 
+Distributed under the Apache 2.0 License. See `LICENSE` for more information.
